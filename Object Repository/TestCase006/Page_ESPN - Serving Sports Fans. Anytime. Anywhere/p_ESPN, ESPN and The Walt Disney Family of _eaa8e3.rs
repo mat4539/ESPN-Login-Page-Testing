@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_ESPN, ESPN and The Walt Disney Family of _eaa8e3</name>
+   <tag></tag>
+   <elementGuidId>3c55e826-1fd7-4ca9-8958-3eff3e01fdd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div/form/label[4]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.input-checkbox.newsletter-checkbox > p.checkbox-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fd826aab-6bba-42b8-b1e1-16028bbde74c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-text</value>
+      <webElementGuid>0aa9e4b0-4412-4517-a30d-8095f226259d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>BU_*_LOCATION_CA_bloc__266d8cedb3db93106c7da3a93d773f70-text</value>
+      <webElementGuid>aea26829-e9fe-4fc8-bcdc-b50704446e13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ESPN, ESPN+ and The Walt Disney Family of Companies.</value>
+      <webElementGuid>f76fe2e8-bd1f-4e86-bcb8-d6fcc970f8b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[3]/div[@class=&quot;loading-container&quot;]/div[@class=&quot;view view-starry-night&quot;]/form[@class=&quot;form-section registration&quot;]/label[@class=&quot;input-checkbox newsletter-checkbox&quot;]/p[@class=&quot;checkbox-text&quot;]</value>
+      <webElementGuid>eef2d6e2-bdba-4477-b692-520b5d85f20e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/TestCase006/Page_ESPN - Serving Sports Fans. Anytime. Anywhere/iframe_concat(id(, , oneid-iframe, , ))_one_8d9a57</value>
+      <webElementGuid>158479b8-2183-451e-b409-6d8caa3d32e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/form/label[4]/p</value>
+      <webElementGuid>1a7679b7-e0df-4e56-8b33-cff33128011f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use letters together with spaces, numbers, or symbols (!@#$%^&amp;*).'])[1]/following::p[3]</value>
+      <webElementGuid>f0289c3a-30be-4978-bcee-db458b943117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Don', &quot;'&quot;, 't use the password from another account.')])[1]/following::p[3]</value>
+      <webElementGuid>d7254d60-a8ac-4dff-8377-9f66f8f4f01d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use'])[1]/preceding::p[1]</value>
+      <webElementGuid>16ad6ef0-e9b5-4f5f-adaf-315439719313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ESPN, ESPN+ and']/parent::*</value>
+      <webElementGuid>6272e63d-5c24-4116-89f3-689060874aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[4]/p</value>
+      <webElementGuid>aa47fa47-f457-4326-bde7-dd1079aa0885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'ESPN, ESPN+ and The Walt Disney Family of Companies.' or . = 'ESPN, ESPN+ and The Walt Disney Family of Companies.')]</value>
+      <webElementGuid>e8e3f852-43e2-49cf-87a0-632b4f47f559</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
