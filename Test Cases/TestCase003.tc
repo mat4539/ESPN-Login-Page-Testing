@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tesing login with incorrect email and correct password</description>
+   <name>TestCase003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b12fa57a-7bfa-4e06-8096-1d78992a5056</testCaseGuid>
+</TestCaseEntity>
