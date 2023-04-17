@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tesing signup without accepting terms</description>
+   <name>TestCase008</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62307fa1-076a-40f5-8f85-29b1fe1c0d55</testCaseGuid>
+</TestCaseEntity>
