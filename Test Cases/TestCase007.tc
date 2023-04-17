@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test signup with invalid email</description>
+   <name>TestCase007</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd5c0b4c-3f60-4a7d-bef1-eca105464867</testCaseGuid>
+</TestCaseEntity>
